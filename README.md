@@ -1,2 +1,2 @@
 # AR_ModelHouse
-TermProject Script_Vuforia
+AR프로젝트
